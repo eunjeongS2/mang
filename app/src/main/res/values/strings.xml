@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mangmang</string>
+
+    <string-array name="todo_array">
+        <item>과제</item>
+        <item>시험</item>
+        <item>할일</item>
+    </string-array>
+</resources>
